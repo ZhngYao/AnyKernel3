@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=neOliT for Realme Monet(RMX2020/RMX2027)
+kernel.string=noevdv-want-u. (M.RodyMananta)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
